@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="my_difficult_qus">
+
+        <item>what is Content Provider</item>
+        <item>What is broadcast Receiver</item>
+
+        <item>What is Android Runtime </item>
+         <item>What is the Open Handset Alliance </item>
+
+        <item>What is ViewGroup </item>
+
+        <item>What is the difference between Service and Thread</item>
+
+        <item>What are the other Notifications </item>
+
+        <item>What is the importance of XML based layouts</item>
+
+        <item>What are containers</item>
+
+        <item>What is Orientation </item>
+
+    </string-array>
+</resources>

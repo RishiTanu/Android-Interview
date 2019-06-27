@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="my_difficult_ans">
+        <item>Content provider are the only way to share data accros Android Application, They store and retrieve data
+        thus making it accessible to all </item>
+
+        <item>Any kind of disturbence in Android operating system, System generate a broadcast message in all the apps,
+        problems like received message , battery low
+        These types of message from os received by BroadCast Receivers</item>
+
+        <item>Android includes a set of core libraries that provides most of the functionality available in the core libraries of the
+            Java programming language. Every Android application runs in its own process, with its own instance of the Dalvik virtual machine.
+            Dalvik has been written so that a device can run multiple VMs efficiently. The Dalvik VM executes files in the Dalvik Executable
+            (.dex) format which is optimized for minimal memory footprint. The VM is register-based, and runs classes compiled by a Java
+            language compiler that have been transformed into the .dex format by the included dx tool</item>
+
+
+        <item>The OHA is a consortium of 84 technology and mobile companies that have joined hands to accelerate innovation in mobile
+            technology and at the same time offer the end users a better, cost-effective and richer mobile experience. Members of this
+            include Google, HTC, Sony, Dell, Intel, Motorola, Qualcomm, Texas Instruments, Samsung, LG, T-Mobile, Nvidia. The OHA was
+            started on 5 November 2007 by Google and 34 other companies. Android is the main software of the alliance. </item>
+
+        <item>A ViewGroup is a special view that can contain other views (called children.) The view group is the base class for layouts and views containers.
+            This class also defines the class ViewGroup.LayoutParams which serves as the base class for layouts parameters. </item>
+
+        <item>Service is like an Activity but has no interface. Probably if you want to fetch the weather for example you would not create a
+            blank activity for it, for this you will use a Service. It is also known as Background Service because it performs tasks in
+            background. A Thread is a concurrent unit of execution. You need to know that you cannot update UI from a Thread.
+            You need to use a Handler for this. </item>
+
+
+  <item>A Status Bar Notification: It is used for persistent reminders that come from the background and request the users response.
+A Dialog Notification: It is Used for Activity-related notifications.</item>
+
+ <item>The use of XML-based layouts provides a consistent and somewhat standard means of setting GUI definition format. In common
+     practice, layout details are placed in XML files while other items are placed in source files. </item>
+
+<item>Containers, as the name itself implies, holds objects and widgets together, depending on which specific items are needed and in
+    what particular arrangement that is wanted. Containers may hold labels, fields, buttons, or even child containers, as examples</item>
+
+
+        <item>Orientation, which can be set using setOrientation(), dictates if the LinearLayout is represented as a row or as a column.
+            Values are set as either HORIZONTAL or VERTICAL. </item>
+
+
+
+    </string-array>
+
+</resources>

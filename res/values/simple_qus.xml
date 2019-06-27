@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="my_simple_qus">
+
+     <item>What is Android ?</item>
+    <item>What is Google Android SDK ?</item>
+    <item>What is Android Architecture ?</item>
+
+
+    <item>What is AAPT ?</item>
+    <item>What is Intent</item>
+    <item>Difference between Intent and Services ?</item>
+
+    <item>Describe the APK format</item>
+
+    <item>What are the different phases of the Activity life cycle?</item>
+
+
+    <item>What language does Android support for application development?</item>
+
+    <item>What is the significance of the .dex files? </item>
+  </string-array>
+
+</resources>

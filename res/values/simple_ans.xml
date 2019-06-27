@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string-array name="my_simple_ans">
+       <item>Android is a stack of software for mobile device, which includes a operating system and middleware and some key application
+        Application executes with its own process and own instance that is DVM device</item>
+
+        <item>The Google Android SDK is a toolset that developers need in order to write apps on Android enabled device. it
+        contains many tools</item>
+
+        <item>Android Architecture is made up 4 key components
+
+        1 Linus kernal
+        2 Libraries
+        3 Android Framework
+        4 Android Applications</item>
+
+       <item>AAPT stands for Android asset packaging tools this tool is used to construct the distributable Android package files(.apk)</item>
+
+        <item> The Intent is Simple message object, that is used to communicate between android components such as activity
+        , content providers, broadcast receivers and services</item>
+
+        <item>Intent - The Intent is Simple message object, that is used to communicate between android components such as activity
+         content providers, broadcast receivers and services
+
+            Services- A service is a component that runs in the background to perform long running operation or to perform
+        work for remote processes, A Service does not provide user interface</item>
+
+       <item>The (Android Packaging Key) APK file is compressed format of the AndroidManifest.xml file, application code (.dex files), resource files, and other files. A project is compiled into a single .apk file. </item>
+
+       <item>As an activity transitions from state to state, it is notified of the change by calls to the following protected methods:
+1) void onCreate(Bundle savedInstanceState)
+2) void onStart()
+3) void onRestart()
+4) void onResume()
+5) void onPause()
+6) void onStop()
+       7) void onDestroy()
+Taken together, these seven methods define the entire lifecycle of an activity. </item>
+
+
+       <item>Android applications are written using the Java programming language</item>
+       <item>Android programs are compiled into .dex (Dalvik Executable) files, which are in turn zipped into a single .apk file on the device. .dex files can be created by automatically, translating compiled applications written in the Java programming language.
+       </item>
+
+   </string-array>
+</resources>
